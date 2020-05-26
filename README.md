@@ -10,4 +10,5 @@ Each homework contains an abstract class, which define one or more abstract func
 | 2    | ThreeSum       | The Classical [3SUM](https://en.wikipedia.org/wiki/3SUM) problem |
 | 3    | IslandCounting | See Problem Statement inside directory                       |
 | 4    | PCL            | See Problem Statement inside directory                       |
+| 5    | slash          | See Problem Statement inside directory                       |
 
