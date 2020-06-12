@@ -12,4 +12,5 @@ Each homework contains an abstract class, which define one or more abstract func
 | 4    | PCL            | See problem statement inside directory                       |
 | 5    | slash          | See problem statement inside directory                       |
 | 6    | SortingArray   | The classical [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm) problem |
+| 7    | LSPath         | Finding the [diameter](https://en.wikipedia.org/wiki/Distance_(graph_theory)#Related_concepts) of a undirected, unweighted, cyclic graph |
 
