@@ -10,7 +10,8 @@ Each homework contains an abstract class, which define one or more abstract func
 | 2    | ThreeSum       | The classical [3SUM](https://en.wikipedia.org/wiki/3SUM) problem |
 | 3    | IslandCounting | See problem statement inside directory                       |
 | 4    | PCL            | See problem statement inside directory                       |
-| 5    | slash          | See problem statement inside directory                       |
+| 5    | slash          | See [LeetCode 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 6    | SortingArray   | The classical [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm) problem |
 | 7    | LSPath         | Finding the [diameter](https://en.wikipedia.org/wiki/Distance_(graph_theory)#Related_concepts) of a undirected, unweighted, cyclic graph |
+| 8    | MPI            | See [LeetCode 41](https://leetcode.com/problems/first-missing-positive/) |
 
